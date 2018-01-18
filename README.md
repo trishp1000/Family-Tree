@@ -3,7 +3,7 @@
 ## Description
 ```
 Initial push to GitHub.
-Testing a pull down to local machine(s).
+Updated README.md in order to test a pull down to local repo.
 
 
 ## Custom CSS Classes
