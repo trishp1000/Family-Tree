@@ -1,0 +1,35 @@
+/* Base Styles -------------------- */
+
+.grandparent-header {
+    text-align: center;
+    font-size: 90px;
+    background-color: rgb(146, 218, 218);      
+}
+
+.momanddad {
+    text-align: center;
+    font-size: 70px;
+    background-color: rgb(161, 206, 161);
+}
+
+.kids {
+    text-align: center;
+    font-size: 50px;
+    background-color: rgb(196, 172, 218);
+}
+
+.grandkids {
+    text-align: center;
+    font-size: 40px;
+    background-color: green;
+}
+
+.greats {
+    text-align: center;
+    font-size: 30px;
+    background-color: yellow;
+}
+
+.scale-down {
+    object-fit: scale-down;
+  }
