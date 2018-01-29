@@ -97,6 +97,26 @@
     background-color: rgba(202, 207, 202, 0.89);         
 }
 
+.myfamily-header {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 40px;
+    color: white;
+    background-color: teal;
+}
+
+.phillips {    
+    display: inline-block;
+    width: 50%; 
+    margin-right: -4px;
+    vertical-align: top;
+    padding-left: 1em;
+    padding-right: 1em;
+    text-align: center;
+    font-size: 20px;
+    color: teal;  
+
 .main-footer {
     width: 80%;
     margin: 0 auto;
